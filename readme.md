@@ -15,8 +15,8 @@ Based on K-NN Algorithm.
 
 ### Database
 
-For obvious reason the database connection is not provided for the application.
-There are two necessary table for it:
+For obvious reasons, the database connection is not provided for the application. 
+There are two necessary tables for it:
 
 *user_hotel_rating*
 
