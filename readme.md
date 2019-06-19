@@ -27,10 +27,10 @@ There are two necessary table for it:
 
 *hotel_data*
 
-| hotel_id | latitude | longitude | guestRating | score |foodAndDrink |
-| ------ | ------ | ------ | ------ | ------ | ------ | ------ |
-| 6731381 | 51.507928 | -0.176664 | 5 | 5 | Full breakfast daily / Restaurant |
-| 4245612 | 32.01234 | 1.123443 | 4.6 | 3 |  Restaurant / Bar  |
+| hotel_id | latitude | longitude | guestRating | score |foodAndDrink | thingsToDo | ... |
+| ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
+| 6731381 | 51.507928 | -0.176664 | 5 | 5 | Full breakfast daily  Restaurant | Outdoor seasonal pool  Golf course on site | ... |
+| 4245612 | 32.01234 | 1.123443 | 4.6 | 3 |  Restaurant  Bar/lounge  | Fitness facilities  Full-service spa | ... |
 
 And some more field, representing on the `DatabaseHelper.py` file
 
