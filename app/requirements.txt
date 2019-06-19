@@ -1,0 +1,8 @@
+flask
+flask_api
+uWSGI
+pandas
+pymysql
+scikit-surprise
+joblib
+geopy
